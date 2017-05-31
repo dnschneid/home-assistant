@@ -1,0 +1,8 @@
+{
+  "domain": "raven_emu",
+  "name": "raven_emu",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["@dnschneid"],
+  "requirements": ["pyserial==3.4"]
+}

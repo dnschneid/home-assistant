@@ -1625,6 +1625,7 @@ pysensibo==1.0.3
 pyserial-asyncio==0.4
 
 # homeassistant.components.acer_projector
+# homeassistant.components.raven_emu
 # homeassistant.components.zha
 pyserial==3.4
 
